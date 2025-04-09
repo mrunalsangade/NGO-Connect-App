@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619495526503",
+    "project_id": "ngoapp-9faa5",
+    "storage_bucket": "ngoapp-9faa5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619495526503:android:7fa88e2d8b9d20d23ec4c2",
+        "android_client_info": {
+          "package_name": "com.example.ngoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF4oDj2Uhj3fzBTYtPlegIPz_-cBvYB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
